@@ -1,0 +1,9 @@
+D:\Projects\lazyLoader\lazyLoader\lazyLoader\bin\Debug\netstandard2.0\lazyLoader.deps.json
+D:\Projects\lazyLoader\lazyLoader\lazyLoader\bin\Debug\netstandard2.0\lazyLoader.dll
+D:\Projects\lazyLoader\lazyLoader\lazyLoader\obj\Debug\netstandard2.0\lazyLoader.csprojAssemblyReference.cache
+D:\Projects\lazyLoader\lazyLoader\lazyLoader\obj\Debug\netstandard2.0\lazyLoader.csproj.CoreCompileInputs.cache
+D:\Projects\lazyLoader\lazyLoader\lazyLoader\obj\Debug\netstandard2.0\lazyLoader.AssemblyInfoInputs.cache
+D:\Projects\lazyLoader\lazyLoader\lazyLoader\obj\Debug\netstandard2.0\lazyLoader.AssemblyInfo.cs
+D:\Projects\lazyLoader\lazyLoader\lazyLoader\bin\Debug\netstandard2.0\lazyLoader.pdb
+D:\Projects\lazyLoader\lazyLoader\lazyLoader\obj\Debug\netstandard2.0\lazyLoader.dll
+D:\Projects\lazyLoader\lazyLoader\lazyLoader\obj\Debug\netstandard2.0\lazyLoader.pdb
